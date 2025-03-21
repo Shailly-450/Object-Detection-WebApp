@@ -1,5 +1,5 @@
 ---
-title: "BCCD Object Detection"
+title: "Object Detection Webapp"
 emoji: "📷"
 colorFrom: "blue"
 colorTo: "purple"
